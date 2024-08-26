@@ -3,7 +3,8 @@
 - 🎓 Estudando **Engenharia de Software** na <a href="https://estacio.br/">ESTÁCIO</a>.
 - 🎓 Graduado em  **Tecnologia de Segurança do Trabalho** na <a href="https://www.unisa.br/">UNISA</a>.
 - 💼 Trabalhando como **Policial Militar** na <a href="https://www.pm.ma.gov.br/">Policia Militar do Maranhão.</a>
-- 🌱 &nbsp; Aprendendo mais no momento sobre **JavaScript com foco no back-end**.
+- 🌱 &nbsp; **JavaScript com foco no back-end**.
+- 🌱 &nbsp; **Python**.
 
 <h3>Minhas Skills</h3>
 
