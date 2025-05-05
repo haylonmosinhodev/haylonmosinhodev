@@ -3,8 +3,9 @@
 - 🎓 Estudando **Engenharia de Software** na <a href="https://estacio.br/">ESTÁCIO</a>.
 - 🎓 Graduado em  **Tecnologia de Segurança do Trabalho** na <a href="https://www.unisa.br/">UNISA</a>.
 - 💼 Trabalhando como **Policial Militar** na <a href="https://www.pm.ma.gov.br/">Policia Militar do Maranhão.</a>
-- 🌱 &nbsp; **JavaScript com foco no back-end**.
+- 🌱 &nbsp; **Java**.
 - 🌱 &nbsp; **Python**.
+- - 🌱 &nbsp; **JavaScript**.
 
 <h3>Minhas Skills</h3>
 
@@ -33,7 +34,7 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20%230000FF?style=flat&logo=vala&labelColor=%230000CD)
 ![Static Badge](https://img.shields.io/badge/Eclipse-%20%234682B4?style=flat&logo=eclipseide&labelColor=%232C2255)
 
 
