@@ -34,6 +34,8 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Static Badge](https://img.shields.io/badge/Eclipse-%20%234682B4?style=flat&logo=eclipseide&labelColor=%232C2255)
+
 
 <br/>
 
