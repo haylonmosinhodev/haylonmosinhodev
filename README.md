@@ -33,7 +33,7 @@
 
 **Ferramentas de desenvolvimento**
 
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20%230000FF?style=flat&logo=vala&labelColor=%230000CD)
+![Static Badge](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE%20-%20%2387CEFA?style=flat)
 ![Static Badge](https://img.shields.io/badge/Eclipse-%20%234682B4?style=flat&logo=eclipseide&labelColor=%232C2255)
 
 
