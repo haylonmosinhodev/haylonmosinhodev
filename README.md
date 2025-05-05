@@ -4,14 +4,13 @@
 - 🎓 Graduado em  **Tecnologia de Segurança do Trabalho** na <a href="https://www.unisa.br/">UNISA</a>.
 - 💼 Trabalhando como **Policial Militar** na <a href="https://www.pm.ma.gov.br/">Policia Militar do Maranhão.</a>
 - 🌱 &nbsp; **Java**.
-- 🌱 &nbsp; **Python**.
-- - 🌱 &nbsp; **JavaScript**.
+
 
 <h3>Minhas Skills</h3>
 
 **Aplicações e dados**
 
-![JAVA](https://img.shields.io/badge/Java%20-%20%2387CEEB?style=flat)
+![Static Badge](https://img.shields.io/badge/JAVA%20-%20%234F4F4F?style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
